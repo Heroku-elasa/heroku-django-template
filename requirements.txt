@@ -63,7 +63,6 @@ pymongo==2.9.2
 pyOpenSSL==0.15.1
 pypdf==1.13
 pypdftk==0.3
-PySide==1.2.4
 pyswf==1.5.4
 python-appengine==1.9.15
 python-dateutil==1.5
